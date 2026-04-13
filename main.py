@@ -9,7 +9,7 @@ pygame.display.set_caption("drone soccer game")
 screen = pygame.display.set_mode((1080,720)) 
 
 #importer l'arriere plan 
-background = pygame.image.load("assets/bg.jpg")
+background = pygame.image.load("assets/bg78.jpg")
 
 #charger le jeu
 game = Game()
